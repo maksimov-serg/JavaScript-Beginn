@@ -1,0 +1,1 @@
+const meinVar = 134;
